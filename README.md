@@ -68,3 +68,20 @@ Neural Networks. "Content preserving image translation with texture co-occurrenc
 # Preparation
 
     Check tools
+
+## Citation
+If you find this repository useful in your research, please cite:
+```
+@article{kang2023content,
+  title={Content preserving image translation with texture co-occurrence and spatial self-similarity for texture debiasing and domain adaptation},
+  author={Kang, Myeongkyun and Won, Dongkyu and Luna, Miguel and Chikontwe, Philip and Hong, Kyung Soo and Ahn, June Hong and Park, Sang Hyun},
+  journal={Neural Networks},
+  volume={166},
+  pages={722--737},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
+Thanks to works below for their implementations which were useful for this work.
+[Swapping Autoencoder](https://github.com/taesungp/swapping-autoencoder-pytorch)
