@@ -69,7 +69,7 @@ Neural Networks. "Content preserving image translation with texture co-occurrenc
 
     Check tools
 
-## Citation
+# Citation
 If you find this repository useful in your research, please cite:
 ```
 @article{kang2023content,
